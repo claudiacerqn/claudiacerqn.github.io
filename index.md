@@ -1,35 +1,44 @@
-## Claudia Cerqueira
+---
+layout: landing
+---
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>Claudia Cerqueira</h2>
+							<p>Postdoctoral Researcher at The Brazilian Center for Analysis and Planning - CEBRAP</p>
+						</div>
+						<a href="#one" class="more scrolly">Learn More</a>
+					</section>
 
-Ph.D in Public Administration and Government 
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Welcome to my webpage!</h2>
+								<p>I am a Postdoctoral Researcher at <a href="http://cebrap.org.br/" target="_blank">The Brazilian Center for Analysis and Planning</a> - CEBRAP (Brazil). I received a PhD in Public Administration and Government from Getulio Vargas Foundation.</p>
+								<p>My research focuses on the relationship between religion and politics, with focus on Brazil. Political economy, electoral strategy, and religious lobby are some of my research interests.</p>
+							</header>
+							<ul class="icons major">
+								<li><span class="icon fa-flag-o major style1"><span class="label">Lorem</span></span></li>
+								<li><span class="icon fa-laptop major style2"><span class="label">Ipsum</span></span></li>
+								<li><span class="icon fa-code major style3"><span class="label">Dolor</span></span></li>
+							</ul>
+						</div>
+					</section>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/claudiacerqn/claudiacerqn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/coffee.jpg" alt="" /></div><div class="content">
+								<h2>CV</h2>
+								<p><a href="https://www.dropbox.com/s/2xjadyewtbb68nq/ClaudiaCerqueira_english-cv.pdf?dl=0" target="_blank">Here</a> Here you can find my CV (in English).
+								My curriculum in Portuguese is available at the <a href="http://lattes.cnpq.br/8987111372808579" target="_blank">Lattes Platform</a>.</p>
+							</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/work2.jpg" alt="" /></div><div class="content">
+								<h2>Research</h2>
+								Please find my publications and conference presentations at <a href="https://osf.io/wyzpe/" target="_blank">SocArXiv</a>.
+							</div>
+						</section>
+</section>
