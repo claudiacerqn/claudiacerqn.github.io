@@ -11,8 +11,9 @@ email: claudiacerqn@cebrap.org.br
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://claudiacerqn.github.io/" # the base hostname & protocol for your site
 social:
-  github: https://github.com/claudiacerqn
+  #github: https://github.com/claudiacerqn
   email: mailto:claudiacerqn@gmail.com
+  twitter: http://twitter.com/claudiacerqn
   #flickr:
   #instagram:
   #youtube-square:
