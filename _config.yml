@@ -5,6 +5,14 @@
 title: Claudia Cerqueira
 description: |
   Postdoctoral Researcher at The Brazilian Center of Analysis and Planning – CEBRAP
+  
+# List of links in the navigation bar
+#navbar-links:
+#  Home: ""
+#  Bio: "aboutme"
+#  CV: "deb"
+#  Research: "textos"
+
 owner: Claudia Cerqueira # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: claudiacerqn@cebrap.org.br
